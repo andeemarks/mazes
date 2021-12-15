@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ruby -I. dijkstra.rb
+ruby -I. longest_path.rb
